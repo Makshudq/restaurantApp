@@ -1,0 +1,16 @@
+
+.ActiveLocationDiv {
+
+    overflow-x: scroll;
+    width: 89vw;
+    -webkit-overflow-scrolling: touch;
+
+     .cardsDiv {
+
+      flex-direction: row;
+      align-items: flex-start;
+      flex-wrap: nowrap;
+      display: flex;
+      cursor: pointer;
+    }
+  }
